@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/roi-codefresh/logs-test/issues"
   },
-  "homepage": "https://github.com/roi-codefresh/logs-test#readme"
+  "homepage": "https://github.com/roi-codefresh/logs-test#readme",
+  "dependencies": {
+    "base64-stream": "^1.0.0"
+  }
 }
